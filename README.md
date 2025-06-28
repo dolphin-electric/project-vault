@@ -2,6 +2,15 @@
 
 A project management system using Obsidian with atomic notes for clear, organized project tracking and AI-assisted project creation.
 
+## Installation Process for Humans
+
+> **Note for AI Assistants**: Skip this section and proceed to Core Principles.
+
+1. **Clone the repository**: `git clone https://github.com/dolphin-electric/project-vault.git`
+2. **Open with Obsidian**: Open the cloned folder as a vault in Obsidian
+3. **Open with AI-enabled IDE**: Open the project in Claude Code or any IDE with LLM integration
+4. **Initialize AI Assistant**: Ask your AI assistant to read the README to understand the system
+
 ## Core Principles
 
 **Project Vault** transforms complex projects into manageable, interconnected atomic pieces while maintaining clear oversight through a centralized dashboard.
@@ -138,20 +147,6 @@ Detailed explanation of the core atomic idea of this note. Can be multiple parag
 - **Process Inbox items regularly** - help users decide: project, dependency, or delete
 - **Remind users to keep Inbox empty**
 - **Update project status** as work progresses
-
-### Creating Parallel Projects
-
-When components could serve multiple purposes or be managed independently:
-
-1. **Identify Opportunities**
-   - Reusable components across projects
-   - Dependencies that could expand into projects
-   - Scope better managed as separate projects
-
-2. **Create Project Network**
-   - Establish clear links between parallel projects
-   - Maintain distinct goals for each
-   - Enable independent progress while supporting others
 
 ### Quality Standards
 
