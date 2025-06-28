@@ -37,7 +37,7 @@ This system is designed to work with AI assistants acting as **Project Managers*
 ## Quick Start
 
 1. **New Project**: Start at `Project Vault Dashboard`, move to "Active Projects"
-2. **Capture Ideas**: Drop in `inbox/` folder, process regularly
+2. **Capture Ideas**: Drop in `Inbox/` folder, process regularly
 3. **Create Dependencies**: Each project component gets its own atomic note
 4. **Track Progress**: Update status and move between dashboard sections
 
@@ -46,7 +46,7 @@ This system is designed to work with AI assistants acting as **Project Managers*
 ```
 /
 ├── Notes/                    # All content (flat structure)
-├── inbox/                   # Temporary items (keep empty)
+├── Inbox/                   # Temporary items (keep empty)
 ├── Project Vault Dashboard.md  # Central hub
 └── README.md               # This file
 ```
@@ -62,6 +62,8 @@ When working with this system, AI assistants should:
 - Timeline and constraints
 - Required dependencies
 - Success criteria
+
+**Use ultrathink mode** for both project creation and dependency content generation to ensure thorough, well-structured content.
 
 **Create complete project structures** using these templates:
 
@@ -88,11 +90,13 @@ One core idea or focus of this project.
 #[meta-tags]
 ```
 
+**What are Dependencies?** Dependencies are atomic support notes that contain the detailed components needed to complete a main project. They are project building blocks - each covering exactly ONE topic in detail. For example, if the main project is "Launch YouTube Channel", dependencies might be: Channel branding strategy, Video editing workflow setup, Content calendar template, Thumbnail design system. Each dependency contains everything about that ONE aspect, but if a dependency starts covering multiple topics, split it into separate dependencies.
+
 #### Dependency Template
 ```markdown
 **Project: [[Main Project Name]]**
 
-Single paragraph explaining the core atomic idea of this note.
+Detailed explanation of the core atomic idea of this note. Can be multiple paragraphs and very detailed, but must focus on ONE topic only. If covering multiple topics, create separate dependencies instead.
 
 ## Content sections as needed
 ...
@@ -111,12 +115,15 @@ Single paragraph explaining the core atomic idea of this note.
 2. **Project Creation**
    - Create main project file in `Notes/`
    - Add to dashboard under "Active Projects"
-   - Create all necessary dependencies as atomic notes
+   - Create all necessary dependencies
 
 3. **Dependency Discovery**
    - For each dependency, conduct separate discovery conversation
-   - Ensure each dependency focuses on ONE clear deliverable
-   - Verify atomic principle - no overlapping dependencies
+   - Use ultrathink mode to generate comprehensive, detailed content for each dependency
+   - Ensure each dependency focuses on ONE clear topic only
+   - Dependencies can be very detailed but must not cover multiple topics
+   - If multiple topics emerge, create separate dependencies
+   - Verify no overlapping dependencies
 
 4. **Enhancement & Optimization**
    - Add realistic milestones based on timeline
@@ -128,8 +135,8 @@ Single paragraph explaining the core atomic idea of this note.
 
 - **Maintain four sections only** - never add subcategories
 - **List projects as simple links**: `- [[Project Name]]`
-- **Process inbox items regularly** - help users decide: project, dependency, or delete
-- **Remind users to keep inbox empty**
+- **Process Inbox items regularly** - help users decide: project, dependency, or delete
+- **Remind users to keep Inbox empty**
 - **Update project status** as work progresses
 
 ### Creating Parallel Projects
@@ -152,7 +159,7 @@ When components could serve multiple purposes or be managed independently:
 - **Use descriptive filenames** - content should be apparent from name
 - **Create bidirectional links** - dependencies reference main projects
 - **Apply relevant meta tags** - analyze content for appropriate tags
-- **Follow atomic principle** - verify each note contains exactly one concept
+- **Stay on topic** - verify each note focuses on exactly one topic
 - **Preserve flat structure** - no subfolders in Notes/
 
 ### Completion Process
