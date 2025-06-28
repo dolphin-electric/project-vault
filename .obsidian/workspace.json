@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "2b32db20e47c4815",
+    "type": "split",
+    "children": [
+      {
+        "id": "2338ba4813e98855",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aac330b59d64694d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lake-city-quiet-pills-clean-srt-transcript.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "lake-city-quiet-pills-clean-srt-transcript"
+            }
+          },
+          {
+            "id": "154ec91049214236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-Instructions.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "AI-Instructions"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a9d09470b5e86a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "26b3dfa7a4adee39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76e92270c0cd589c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8cdb6969675d4099",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a74159b0a557a3f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d1ea27556a1258a",
+    "type": "split",
+    "children": [
+      {
+        "id": "159a142fcacca8d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2693468c21a00655",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Terminal Customization Script.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Terminal Customization Script"
+            }
+          },
+          {
+            "id": "88ced6196501ebd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "76d900a684815c61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d2a4ce66b8f43600",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "154ec91049214236",
+  "lastOpenFiles": [
+    "README.md",
+    "inbox",
+    "Project Vault Dashboard.md",
+    "AI-Instructions.md",
+    "Notes/Beginner Terminal Setup Checklist.md",
+    "MCP Server Settings.md",
+    "Notes/YouTube Video - Kitty Terminal Customization for Beginners.md",
+    "blog_posts/Trump_Has_No_Intention_of_Going_to_War_with_Iran_Paul_of_The_Sirius_Report_blog.md",
+    "blog_posts",
+    "blog_posts/Dollar_Crash_Would_Bring_All_Other_Currencies_Down_Too_Gold_Holds_the_Key_to_Financial_Survival_blog.md",
+    "The_Best_Way_to_Buy_Gold_blog.md",
+    "lake-city-quiet-pills-clean-srt-transcript.md",
+    "Dollar_Crash_Would_Bring_All_Other_Currencies_Down_Too_Gold_Holds_the_Key_to_Financial_Survival_blog.md",
+    "How_Big_Tech_Is_Quietly_Taking_Over_AI_Without_Mergers_blog.md",
+    "lake-city-quiet-pills-clean-transcript.md",
+    "lake-city-quiet-pills-codeblock-transcript.md",
+    "lake-city-quiet-pills-transcript.md",
+    "Notes/Recording Plan - Before After Demo.md",
+    "Notes/Step-by-Step Tutorial Structure.md",
+    "Notes/Thumbnail Design Concept.md",
+    "Notes/Video Script - Kitty Terminal Tutorial.md",
+    "Notes/YouTube Metadata Optimization.md",
+    "Notes/YouTube Video Transcript - DHWYTwY0hiw.md",
+    "test-note-mcp.md",
+    "MCP_Test_Note.md",
+    "Lake_City_Quiet_Pills_Raw_Transcript.md",
+    "Lake_City_Quiet_Pills_Transcript.md",
+    "lake-city-quiet-pills-transcript.json",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
